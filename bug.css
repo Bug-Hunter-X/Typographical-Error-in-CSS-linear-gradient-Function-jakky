@@ -1,0 +1,6 @@
+The following CSS code snippet intends to style a button with a background gradient, but it produces unexpected results due to a typographical error in the `linear-gradient` function: 
+```css
+button {
+  background-image: linear-grediant(to right, #f00, #0f0);
+}
+```
