@@ -1,0 +1,7 @@
+The solution is simply to correct the spelling of `linear-grediant` to `linear-gradient`:
+```css
+button {
+  background-image: linear-gradient(to right, #f00, #0f0);
+}
+```
+This corrected code will render the expected background gradient smoothly from red (#f00) to green (#0f0).  Always double-check function names for accurate CSS styling.
